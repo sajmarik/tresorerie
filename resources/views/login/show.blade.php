@@ -17,7 +17,7 @@
             </div>
 
             <div class="mb-3">
-                <label  class="form-label">Mot de passe</label>
+                <label  class="form-label">Mot de PASSE</label>
                 <input type="password" name="password"  class="form-control" required>
             </div>
 
